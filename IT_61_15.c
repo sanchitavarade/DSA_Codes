@@ -1,9 +1,12 @@
+// Operations for Linked List
+
 /*
 Name: Sanchita Warade
 Roll No: 61
 Branch: IT
 Batch: C 
 */
+
 # include <stdio.h>
 # include <stdlib.h>
 //# include <conio.h>
