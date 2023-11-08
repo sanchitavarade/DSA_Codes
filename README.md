@@ -27,8 +27,7 @@
 | Q13        | Array Implementation of Circular Queue   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/circularq.c)          |
 | Q14        | Array Implementation of Double Ended queue| [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/double_endedq.c) | 
 | Q15        |  Program to implement insert, delete, display, search in linked list | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/linkedlist.c)        |
-| Q16        | Write a menu driven program to implement STACK ADT using linked list and perform the following operations<br>1. PUSH<br> 2. POP<br> 3. DISPLAY 
-| [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/stackLL.c)                 |
+| Q16        | Write a menu driven program to implement STACK ADT using linked list and perform the following operations<br>1. PUSH<br> 2. POP<br> 3. DISPLAY | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/stackLL.c)                 |
 | Q17         |  Write a menu driven program to implement QUEUE ADT using linked list and perform the following operation<br>1. ENQUEUE<br>2. DEQUEUE<br>3. DISPLAY                                                                                                           | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/queueLL.c)                            |
 | Q18         | Program for Expression Evaluation          | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/expression.c)                   |
 | Q19        | Program to convert Infix to Postfix Expression   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/infixtopostfix)              |
