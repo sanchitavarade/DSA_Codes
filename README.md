@@ -22,22 +22,22 @@
 
 | Question Number | Program                                                                                                                                                                                                                                                                                                                                                                                                                  | Link to Code                                                                                 | 
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Q11        | Array Implementaion of Stack         | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/stack.c)                      |     
-| Q12        | Array Implementation of Queue     | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/queue.c)              | 
-| Q13        | Array Implementation of Circular Queue   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/circularq.c)          |
-| Q14        | Array Implementation of Double Ended queue| [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/double_endedq.c) | 
-| Q15        |  Program to implement insert, delete, display, search in linked list | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/linkedlist.c)        |
-| Q16        | Write a menu driven program to implement STACK ADT using linked list and perform the following operations<br>1. PUSH<br> 2. POP<br> 3. DISPLAY | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/stackLL.c)                 |
-| Q17         |  Write a menu driven program to implement QUEUE ADT using linked list and perform the following operation<br>1. ENQUEUE<br>2. DEQUEUE<br>3. DISPLAY                                                                                                           | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/queueLL.c)                            |
-| Q18         | Program for Expression Evaluation          | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/expression.c)                   |
-| Q19        | Program to convert Infix to Postfix Expression   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/infixtopostfix)              |
-| Q20       |  Linked List Implementation of Priority Queue      | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/priorityq.c)                     |
-| Q21       | Program to implement Bubble or Selection   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/selectionsort.c)                 |
-| Q22       |  Program to implement Insertion Sort | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/insertsort.c)                            |
-| Q23        |  Program to implement Merge Sort | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/mergesort.c)                 |
-| Q24        | Program to implement Quick Sort    | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/quicksort.c)                   |
-| Q25        | Implementation of Binary Search | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/bst.c)                              |
-| Q26         | Implementation of Binary Tree   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/binary_tree.c)                              |
-| Q27        | Write a program to implement traversal of a directed graph through BFS   |  [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/bfs.c)               |
-| Q28        | Write a program to implement traversal of a directed graph through DFS  | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/dfs.c)                     |
+| Q1        | Array Implementaion of Stack         | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/stack.c)                      |     
+| Q2        | Array Implementation of Queue     | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/queue.c)              | 
+| Q3        | Array Implementation of Circular Queue   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/circularq.c)          |
+| Q4        | Array Implementation of Double Ended queue| [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/double_endedq.c) | 
+| Q5        |  Program to implement insert, delete, display, search in linked list | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/linkedlist.c)        |
+| Q6        | Write a menu driven program to implement STACK ADT using linked list and perform the following operations<br>1. PUSH<br> 2. POP<br> 3. DISPLAY | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/stackLL.c)                 |
+| Q7         |  Write a menu driven program to implement QUEUE ADT using linked list and perform the following operation<br>1. ENQUEUE<br>2. DEQUEUE<br>3. DISPLAY                                                                                                           | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/queueLL.c)                            |
+| Q8         | Program for Expression Evaluation          | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/expression.c)                   |
+| Q9        | Program to convert Infix to Postfix Expression   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/infixtopostfix)              |
+| Q10       |  Linked List Implementation of Priority Queue      | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/priorityq.c)                     |
+| Q11       | Program to implement Bubble or Selection   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/selectionsort.c)                 |
+| Q12       |  Program to implement Insertion Sort | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/insertsort.c)                            |
+| Q13        |  Program to implement Merge Sort | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/mergesort.c)                 |
+| Q14        | Program to implement Quick Sort    | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/quicksort.c)                   |
+| Q15        | Implementation of Binary Search | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/bst.c)                              |
+| Q16         | Implementation of Binary Tree   | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/binary_tree.c)                              |
+| Q17        | Write a program to implement traversal of a directed graph through BFS   |  [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/bfs.c)               |
+| Q18        | Write a program to implement traversal of a directed graph through DFS  | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/dfs.c)                     |
                                                                                                                                                                                                                                                                                                                                    
