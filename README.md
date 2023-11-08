@@ -17,7 +17,7 @@
 | Q8         | Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise           | [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/checkidentical.c ) |
 | Q9         | Write a program in C to count the total number of duplicate elements in an array   |[Link](https://github.com/sanchitavarade/DSA_codes/blob/main/countduplicates.c)|
 | Q10        | Write a program in C to print all unique elements in an array  |  [Link](https://github.com/sanchitavarade/DSA_codes/blob/main/unique.c) |
-<br/><br/>
+
 #    Experiment List (Part B)
 
 | Question Number | Program                                                                                                                                                                                                                                                                                                                                                                                                                  | Link to Code                                                                                 | 
